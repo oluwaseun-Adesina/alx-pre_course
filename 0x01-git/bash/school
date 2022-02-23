@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "School"
+ech0 "The school is open!"
